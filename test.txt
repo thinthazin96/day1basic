@@ -1,2 +1,3 @@
 blah blah
-I am adding new thing
+I am adding new thing.
+testing
